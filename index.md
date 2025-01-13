@@ -1,4 +1,33 @@
----
-title: Welcome to my blog
----
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ean Masoner CSD 340 Landing Page</title>
+    <link rel="stylesheet" href="site.css">
+</head>
+<body>
+    <div id="container">
+        <h1>Ean Masoner CSD 340 Landing Page</h1>
+        <h2>CSD 340 Web Development with HTML and CSS</h2>
+        <hr>
+        <h3>Module Assignments</h3>
+        <ul>
+            <li><a href="module-1/Assignment1_3.html">Assignment 1.3</a></li>
+            <li><a href="module-2/Assignment2_2.html">Assignment 2.2</a></li>
+            <li><a href="module-3/Assignment3_3.html">Assignment 3.3</a></li>
+        </ul>
+        <h3>Projects</h3>
+        <ul>
+            <li><a href="bioSite/index.html">bioSite Project Home Page</a></li>
+        </ul>
+        <h4>Important Links</h4>
+        <ul>
+            <li><a href="https://validator.w3.org/">W3C HTML Validator</a></li>
+            <li><a href="http://jigsaw.w3.org/css-validator/">W3C CSS Validator</a></li>
+            <li><a href="https://www.w3schools.com/html/">HTML Tutorial</a></li>
+            <li><a href="https://bruinconnect.bellevue.edu/">BRUIN Connect</a></li>
+        </ul>
+    </div>
+</body>
+</html>
